@@ -1,9 +1,5 @@
-<<<<<<< HEAD
+
 
 sdsdsadsdvdsvfdvfdvfdv
 
-dsfdsfdsfdsfdsfdsf
-=======
-zzzzzzzz
-
->>>>>>> 602db9da4ee15016bd2cd77a449f050c6b74588b
+dsfdsfdsfdsfdsss
