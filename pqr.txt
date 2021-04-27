@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 sadsasdsadsadsa
-=======
 
 asdsadsadsadsadsadsadsadsadsadsadsa
->>>>>>> a94fd63298e3dae391855d09bceb96ef9c831d97
+
+6666
