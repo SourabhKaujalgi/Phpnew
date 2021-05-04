@@ -9,4 +9,367 @@ Adding to master
 
 This is for feature 2
 
-sdsawee
+sdsaweecommit c977fce185e8a2a7db85cc90eb99ee0967cd02ed
+Author: Sourabh Kaujalgi <sourabh_kaujalgi@persistent.com>
+Date:   Sun May 2 00:58:58 2021 +0530
+
+    Commited gitpract by gitpract2
+
+commit e715dec1227e5decada5e613646d13a9442fb654
+Author: Sourabh Kaujalgi <sourabh_kaujalgi@persistent.com>
+Date:   Sun May 2 00:55:35 2021 +0530
+
+    Commited  gitpract1
+
+commit 3107c2d35be70523bb03552f4044abcaf5d2a447
+Merge: ab9aa58 d1dea4e
+Author: Sourabh Kaujalgi <sourabh_kaujalgi@persistent.com>
+Date:   Sun May 2 00:47:44 2021 +0530
+
+    Merge branch 'master' of https://github.com/SourabhKaujalgi/Phpnew
+
+commit d1dea4ef25112e6a09dd704486d07486d1b23cb8
+Author: Sourabh Kaujalgi <sourabh_kaujalgi@persistent.com>
+Date:   Sat May 1 18:38:46 2021 +0530
+
+    Commited by gitpract2
+
+commit ab9aa58b64f47f148ebe24b94c90862fc6f15d88
+Author: Sourabh Kaujalgi <sourabh_kaujalgi@persistent.com>
+Date:   Thu Apr 29 19:22:43 2021 +0530
+
+    Commited for master
+
+commit 0f12ed39cef011c4161e49fb9f4b69a683ec75f7
+Merge: 51df2c1 8e7a25c
+Author: Sourabh Kaujalgi <sourabh_kaujalgi@persistent.com>
+Date:   Thu Apr 29 12:16:56 2021 +0530
+
+    Conflict resoleved
+
+commit 8e7a25c4c59d27741e05d4505e466f3463ca6380
+Author: Sourabh Kaujalgi <sourabh_kaujalgi@persistent.com>
+Date:   Thu Apr 29 12:14:43 2021 +0530
+
+    Added In feature2
+
+commit 51df2c18e051904fc5e96a262aec52a7c0451d83
+Author: Sourabh Kaujalgi <sourabh_kaujalgi@persistent.com>
+Date:   Thu Apr 29 12:12:37 2021 +0530
+
+    Added In master
+
+commit 5fc3690ea9560830fd9caafa179f3a366b3e9388
+Author: Sourabh Kaujalgi <sourabh_kaujalgi@persistent.com>
+Date:   Thu Apr 29 01:38:44 2021 +0530
+
+    4 txt
+
+commit 039063f03f5db8c7a71043fa07212f3c3573ba80
+Author: Sourabh Kaujalgi <sourabh_kaujalgi@persistent.com>
+Date:   Thu Apr 29 01:34:40 2021 +0530
+
+    three txt
+
+commit fed4614d2b707a04e0311266ba4396cf61e03163
+Author: Sourabh Kaujalgi <sourabh_kaujalgi@persistent.com>
+Date:   Thu Apr 29 01:31:19 2021 +0530
+
+    new added to amster
+
+commit 440e4c06d93fd24a80dab87afa4b6fa03d17d54f
+Author: Sourabh Kaujalgi <sourabh_kaujalgi@persistent.com>
+Date:   Wed Apr 28 19:44:20 2021 +0530
+
+    abc modfied
+
+commit 70afcef4d16af83b86dec18aa7afad7959c7017c
+Merge: f661508 f5ec108
+Author: Sourabh Kaujalgi <sourabh_kaujalgi@persistent.com>
+Date:   Wed Apr 28 19:41:11 2021 +0530
+
+    Deleted PQR
+
+commit f5ec1086d3413bc00ae97f4fef3a1bac371a346a
+Author: Sourabh Kaujalgi <sourabh_kaujalgi@persistent.com>
+Date:   Wed Apr 28 19:23:52 2021 +0530
+
+    Deleted PQR
+
+commit f661508a47c35ee7c889866b1e015863968107ba
+Merge: b7d332e c58aa30
+Author: Sourabh Kaujalgi <sourabh_kaujalgi@persistent.com>
+Date:   Wed Apr 28 19:16:34 2021 +0530
+
+    deleted abc master
+
+commit c58aa305973a14c46128d9adf29944ec8645b2ff
+Author: Sourabh Kaujalgi <sourabh_kaujalgi@persistent.com>
+Date:   Wed Apr 28 19:08:59 2021 +0530
+
+    deleted abc
+
+commit b7d332eecda3b0f792199f7567f5a195ce87bde7
+Merge: a43b49c 579dc3e
+Author: Sourabh Kaujalgi <sourabh_kaujalgi@persistent.com>
+Date:   Wed Apr 28 15:10:32 2021 +0530
+
+    conflict resolved
+
+commit 579dc3e09b78a67c11616f52f707bb3aeab4f29d
+Author: Sourabh Kaujalgi <sourabh_kaujalgi@persistent.com>
+Date:   Wed Apr 28 15:06:20 2021 +0530
+
+    commiting to feature2
+
+commit 01af3deed41400fc048b991f6d85aa2c9169055c
+Author: Sourabh Kaujalgi <sourabh_kaujalgi@persistent.com>
+Date:   Wed Apr 28 15:05:14 2021 +0530
+
+    commiting to feature1
+
+commit a43b49c4f37e806e1b709f08b803431660af547e
+Author: Sourabh Kaujalgi <sourabh_kaujalgi@persistent.com>
+Date:   Wed Apr 28 15:02:03 2021 +0530
+
+    abc modified
+
+commit bfdd929e3f8fc2ba96fe650be5233cdda4ffb634
+Author: Sourabh Kaujalgi <sourabh_kaujalgi@persistent.com>
+Date:   Wed Apr 28 12:40:50 2021 +0530
+
+    changes made in feature file
+
+commit d50422fcc12bb6bf34f3eae34d5d2a5fff95e8ae
+Author: Sourabh Kaujalgi <sourabh_kaujalgi@persistent.com>
+Date:   Tue Apr 27 18:24:38 2021 +0530
+
+    changes made in feature file
+
+commit c218cc2f2881b533c0c16355b6943a222facd724
+Author: Sourabh Kaujalgi <sourabh_kaujalgi@persistent.com>
+Date:   Tue Apr 27 17:24:14 2021 +0530
+
+    multiple commit demo 2
+
+commit b1eeb40a7f552b79910512cb5b3a6d03a95fdb00
+Author: Sourabh Kaujalgi <sourabh_kaujalgi@persistent.com>
+Date:   Tue Apr 27 17:23:38 2021 +0530
+
+    multiple commit demo
+
+commit 2b54037d4bb799b3dd345ed48493c66498467ac0
+Merge: a9dba78 4481c06
+Author: Sourabh Kaujalgi <sourabh_kaujalgi@persistent.com>
+Date:   Tue Apr 27 13:04:36 2021 +0530
+
+    Merge branch 'master' of https://github.com/SourabhKaujalgi/Phpnew
+
+commit a9dba78095bce58131ce5cb1ae26c9a4cf95e89f
+Author: Sourabh Kaujalgi <sourabh_kaujalgi@persistent.com>
+Date:   Tue Apr 27 13:03:14 2021 +0530
+
+    your message
+
+commit 4481c068ed42928a8524c5a735a3bf9ee0a07541
+Author: SourabhKaujalgi <50537576+SourabhKaujalgi@users.noreply.github.com>
+Date:   Tue Apr 27 12:57:51 2021 +0530
+
+    Update pqr.txt
+
+commit 53a6ea4425065f66ceae172df435bee91d0a03a9
+Merge: 13ccb02 dbd556c
+Author: Sourabh Kaujalgi <sourabh_kaujalgi@persistent.com>
+Date:   Tue Apr 27 12:57:16 2021 +0530
+
+    Added changes in pqr
+
+commit 13ccb02a7e8ba924498043957d0887c0d7fa0447
+Author: Sourabh Kaujalgi <sourabh_kaujalgi@persistent.com>
+Date:   Tue Apr 27 12:55:13 2021 +0530
+
+    Added changes in pqr
+
+commit dbd556c8af425f5d7882498b14bd0d16c4666d20
+Author: SourabhKaujalgi <50537576+SourabhKaujalgi@users.noreply.github.com>
+Date:   Tue Apr 27 12:54:21 2021 +0530
+
+    Update pqr.txt
+
+commit 47963d2889e6902e6f815e7a66f7cf4462a8a9d3
+Merge: a8b30fd 0f7093f
+Author: Sourabh Kaujalgi <sourabh_kaujalgi@persistent.com>
+Date:   Tue Apr 27 12:47:55 2021 +0530
+
+    Added changes in pqr
+
+commit a8b30fd933b43ee096b5e9232f5bbe91bca76244
+Author: Sourabh Kaujalgi <sourabh_kaujalgi@persistent.com>
+Date:   Tue Apr 27 12:45:31 2021 +0530
+
+    Added changes in pqr
+
+commit 0f7093febd8f89bedee6150841fcdfbfe31101c2
+Author: SourabhKaujalgi <50537576+SourabhKaujalgi@users.noreply.github.com>
+Date:   Tue Apr 27 12:42:56 2021 +0530
+
+    Update pqr.txt
+
+commit 6b1a1144c0de150c42542832bd8aee069dadf733
+Merge: df99338 a94fd63
+Author: Sourabh Kaujalgi <sourabh_kaujalgi@persistent.com>
+Date:   Tue Apr 27 12:40:41 2021 +0530
+
+    Added changes in pqr
+
+commit df993384830a5edfbfc25a32fdb05b2c166e137a
+Author: Sourabh Kaujalgi <sourabh_kaujalgi@persistent.com>
+Date:   Tue Apr 27 12:38:19 2021 +0530
+
+    Added changes in pqr
+
+commit a94fd63298e3dae391855d09bceb96ef9c831d97
+Author: SourabhKaujalgi <50537576+SourabhKaujalgi@users.noreply.github.com>
+Date:   Tue Apr 27 12:37:44 2021 +0530
+
+    Update pqr.txt
+
+commit cb86e526be6c9c27dac0af36a5666e11951e2591
+Merge: c33384d 602db9d
+Author: Sourabh Kaujalgi <sourabh_kaujalgi@persistent.com>
+Date:   Tue Apr 27 01:22:58 2021 +0530
+
+    Commiting modified chages withough chagning
+
+commit 602db9da4ee15016bd2cd77a449f050c6b74588b
+Author: SourabhKaujalgi <50537576+SourabhKaujalgi@users.noreply.github.com>
+Date:   Tue Apr 27 01:20:03 2021 +0530
+
+    Update abctxt.txt
+
+commit 36ad5f0dbcb5b7d796c721285905475f996d573b
+Author: SourabhKaujalgi <50537576+SourabhKaujalgi@users.noreply.github.com>
+Date:   Tue Apr 27 01:19:50 2021 +0530
+
+    Update abctxt.txt
+
+commit 79242fe02b5ad6d27bc39a88f0232ab19100ad79
+Author: SourabhKaujalgi <50537576+SourabhKaujalgi@users.noreply.github.com>
+Date:   Tue Apr 27 01:18:52 2021 +0530
+
+    Update abctxt.txt
+
+commit c33384d4c3711f4e641145158ccd501665c0c5ef
+Author: Sourabh Kaujalgi <sourabh_kaujalgi@persistent.com>
+Date:   Tue Apr 27 01:16:09 2021 +0530
+
+    Commiting modified chages
+
+commit 27fdaaec179a2691e4869b5d252663eeccf7974a
+Merge: 7287a02 38ca867
+Author: Sourabh Kaujalgi <sourabh_kaujalgi@persistent.com>
+Date:   Tue Apr 27 01:12:51 2021 +0530
+
+    Commiting modified chages
+
+commit 7287a026c511309af5f3a4c414b98930c46fd94f
+Author: SourabhKaujalgi <50537576+SourabhKaujalgi@users.noreply.github.com>
+Date:   Mon Apr 26 19:23:04 2021 +0530
+
+    Update abctxt.txt
+
+commit 38ca867a8a05a5aaa368bdabacef532824e4a457
+Author: SourabhKaujalgi <50537576+SourabhKaujalgi@users.noreply.github.com>
+Date:   Mon Apr 26 19:19:41 2021 +0530
+
+    Update abctxt.txt
+
+commit 99cd488bd34e3f3bc801ea9aa7608c25d676b3bb
+Author: SourabhKaujalgi <50537576+SourabhKaujalgi@users.noreply.github.com>
+Date:   Mon Apr 26 19:16:49 2021 +0530
+
+    Update abctxt.txt
+
+commit a3ee0a366a28de13c3dc9a00652bf4e8ad1f7e7c
+Author: Sourabh Kaujalgi <sourabh_kaujalgi@persistent.com>
+Date:   Mon Apr 26 15:36:15 2021 +0530
+
+    commiting renamed file
+
+commit 0fa37c63cadfba5e9af907d772b8c3882f6ab104
+Author: Sourabh Kaujalgi <sourabh_kaujalgi@persistent.com>
+Date:   Mon Apr 26 15:34:30 2021 +0530
+
+    commiting vim
+
+commit d008a05e6bb48de2ed6256861b2cb836a083c5ad
+Author: Sourabh Kaujalgi <sourabh_kaujalgi@persistent.com>
+Date:   Mon Apr 26 02:22:18 2021 +0530
+
+    Revert "deleted pqr"
+    
+    This reverts commit b4864c126b3c0bf7cd71fa6109ebe6b432642bb3.
+
+commit b4864c126b3c0bf7cd71fa6109ebe6b432642bb3
+Author: Sourabh Kaujalgi <sourabh_kaujalgi@persistent.com>
+Date:   Mon Apr 26 02:15:54 2021 +0530
+
+    deleted pqr
+
+commit 459f4f2baf636bb419660fbb0f845460ee3da6ce
+Author: Sourabh Kaujalgi <sourabh_kaujalgi@persistent.com>
+Date:   Mon Apr 26 02:14:31 2021 +0530
+
+    adding new filw
+
+commit 194c3dd7e7c387cf98b2a665a19555ab0a8d1380
+Author: Sourabh Kaujalgi <sourabh_kaujalgi@persistent.com>
+Date:   Mon Apr 26 02:06:43 2021 +0530
+
+    comminting reverted files new one
+
+commit d09b2dabdebbf3a27dc1f0e68287b2e0a4f2a04f
+Author: Sourabh Kaujalgi <sourabh_kaujalgi@persistent.com>
+Date:   Mon Apr 26 02:02:58 2021 +0530
+
+    comminting reverted files
+
+commit 940c011d2b8cdd0cb828e70262c0d347840895b6
+Author: Sourabh Kaujalgi <sourabh_kaujalgi@persistent.com>
+Date:   Mon Apr 26 01:38:37 2021 +0530
+
+    Revert "Revert "abc""
+    
+    This reverts commit cef73bca02bb346605021447b33e9849b2a919bc.
+
+commit 6b9cfe6b3f11d5315cbc8d273e81b57b92eac754
+Author: Sourabh Kaujalgi <sourabh_kaujalgi@persistent.com>
+Date:   Mon Apr 26 01:09:24 2021 +0530
+
+    commintin deleted files
+
+commit cef73bca02bb346605021447b33e9849b2a919bc
+Author: Sourabh Kaujalgi <sourabh_kaujalgi@persistent.com>
+Date:   Sun Apr 25 02:29:29 2021 +0530
+
+    Revert "abc"
+    
+    This reverts commit 603211f8cfda7e3b9094a9f586920977abd5bfde.
+
+commit 603211f8cfda7e3b9094a9f586920977abd5bfde
+Author: Sourabh Kaujalgi <sourabh_kaujalgi@persistent.com>
+Date:   Sun Apr 25 02:24:11 2021 +0530
+
+    abc
+
+commit 50b7fa114948b26f34245c08b96e3621739a4257
+Author: SourabhKaujalgi <50537576+SourabhKaujalgi@users.noreply.github.com>
+Date:   Thu Jun 25 01:56:12 2020 +0530
+
+    Add files via upload
+
+commit a9ec29cf372c56f6a82c2e8677026983c2bb1798
+Author: comp <comp@DESKTOP-CSB55GA>
+Date:   Mon Jun 22 00:50:29 2020 +0530
+
+    Commiting Travel Php first time
